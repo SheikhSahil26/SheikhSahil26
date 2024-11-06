@@ -3,6 +3,9 @@
 </div>
 <br><br>
 <h1 align="center">Hi 👋, I'm Sahil Sheikh</h1>
+
+![Profile views](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/SheikhSahil26/SheikhSahil26)
+
 <h3 align="center">Passionate About Backend Development And Problem Solving</h3>
 <!-- <img align="right" alt="AI/ML" width="270" height="200" src="https://vedantc6.github.io/assets/images/ai.gif" > -->
 
